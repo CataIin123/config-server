@@ -1,1 +1,3 @@
-loan.service.url:https://localhost:8182/library/loans/1
+loan
+    .service
+        .url:https://localhost:8182/library/loans/1
